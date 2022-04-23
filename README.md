@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @pandersail
+- 👋 Hi, I’m Angelo
 - 👀 I’m interested in art, personal finance and self-improvement!
-- 🌱 I’m currently learning everything related to coding, in this order HTML,CSS,JS,Python...
+- 🌱 I’m currently going through The Odin Project JS course, Havard's CS50, and a SQL bootcamp
 - 💞️ I’m looking to collaborate on ... not sure yet
 - 📫 How to reach me: at angeloantosilva@gmail.com
 
