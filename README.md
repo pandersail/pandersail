@@ -1,10 +1,11 @@
-- 👋 Hi, I’m Angelo
-- 👀 I’m interested in art, personal finance and self-improvement!
-- 🌱 I’m currently going through The Odin Project JS course, Havard's CS50, and a SQL bootcamp
-- 💞️ I’m looking to collaborate on ... not sure yet
-- 📫 How to reach me: at angeloantosilva@gmail.com
+Angelo Silva
 
-<!---
-pandersail/pandersail is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Accounting professional who builds things on the side.
+
+What I am building
+
+A web platform for run clubs: one place for a city's club runs, with a simple way for runners to sign up and check in. It is in private development, with a first test group planned for early 2027.
+
+Server-rendered JavaScript on Cloudflare Workers, with a D1 (SQLite) database
+No framework and no build step, with a test suite that runs on Node alone
+Available in French, English and German
