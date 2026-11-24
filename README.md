@@ -7,7 +7,6 @@ A web platform for run clubs: one place for a city's club runs, with a simple wa
 - Server-rendered JavaScript on Cloudflare Workers, with a D1 (SQLite) database
 - No framework and no build step, with a test suite that runs on Node alone
 - Available in French, English and German
-- Built with heavy use of AI coding tools, which I direct, review and test
  
 ## Languages
  
