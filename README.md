@@ -1,7 +1,5 @@
 Accounting professional who builds things on the side.
  
-I spent five years in accounts payable and receivable, after a first career in luxury hotels in London and Paris. I like work where the numbers have to be right and the people have to be looked after.
- 
 ## What I am building
  
 A web platform for run clubs: one place for a city's club runs, with a simple way for runners to sign up and check in. It is in private development, with a first test group planned for early 2027.
